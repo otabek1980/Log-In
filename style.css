@@ -73,6 +73,7 @@ body{
 .remember-forgot a{
     color: #fff;
     text-decoration: none;
+    border-radius: 5px black solid;
 }
 .remember-forgot a:hover{
     text-decoration: underline;
