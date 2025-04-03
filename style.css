@@ -69,13 +69,13 @@ body{
 .remember-forgot label input {
     accent-color: #fff;
     margin-right: 3px;
-    border-radius: 5px black solid;
+    border: 5px black solid;
     
 }
 .remember-forgot a{
     color: #fff;
     text-decoration: none;
-    border-radius: 5px black solid;
+    border: 5px black solid;
     
 }
 .remember-forgot a:hover{
